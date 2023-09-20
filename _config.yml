@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "CITA Theoretical Plasma Group"
 title_separator          : "-"
 subtitle                 : Theortical plasma across all scales in the Universe # site tagline that appears below site title in masthead
-name                     : "
+name                     : #"
 description              : "The CITA Plasma Group."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
