@@ -1,2 +1,2 @@
-# CITAplasma
-The CITA plasma website.
+# CITA Theoretical Plasma Group
+Hello Bart!
