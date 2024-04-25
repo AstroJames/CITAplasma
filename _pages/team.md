@@ -13,7 +13,7 @@ comments: false
 - Labani Mallick (CITA National Fellow, University of Manitoba)
 - Gibwa Musoke (CITA Fellow)
 - Sean Ressler (CITA Fellow)
-- Brandon Gail (graduate student, CITA & University of Toronto)
+- Braden Gail (graduate student, CITA & University of Toronto)
 - Tanisha Ghosal (graduate student, CITA & University of Toronto)
 - Michael Grehan (graduate student, CITA & University of Toronto)
 - Matus Labaj (graduate student, Masaryk University)
