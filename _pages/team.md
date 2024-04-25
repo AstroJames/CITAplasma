@@ -13,11 +13,12 @@ comments: false
 - Labani Mallick (CITA National Fellow, University of Manitoba)
 - Gibwa Musoke (CITA Fellow)
 - Sean Ressler (CITA Fellow)
-- Brandon Gail (CITA & University of Toronto Graduate Student)
-- Tanisha Ghosal (CITA & University of Toronto Graduate Student)
-- Michael Grehan (CITA & University of Toronto Graduate Student)
-- Alicia Savelli (CITA & University of Toronto Graduate Student)
-- Jonathan Zhang (CITA & University of Toronto Graduate Student)
+- Brandon Gail (graduate student, CITA & University of Toronto)
+- Tanisha Ghosal (CITA & University of Toronto
+- Michael Grehan (graduate student, CITA & University of Toronto)
+- Alicia Savelli (graduate student, CITA & University of Toronto Graduate Student)
+- Jonathan Zhang (graduate student, CITA & University of Toronto Graduate Student)
+- Shashvat Varma (undergraduate, University of Toronto)
 
 
 
