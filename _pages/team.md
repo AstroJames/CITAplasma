@@ -6,7 +6,6 @@ author_profile: true
 comments: false
 ---
 
-<span style="font-size:0.8em;">
 - Bart Ripperda (Ass. Prof. CITA)
 - Chris Thompson (Prof. CITA)
 - James Beattie (Joint CITA Fellow & Princeton Postdoctoral Associate)
@@ -15,12 +14,11 @@ comments: false
 - Gibwa Musoke (CITA Fellow)
 - Sean Ressler (CITA Fellow)
 - Brandon Gail (graduate student, CITA & University of Toronto)
-- Tanisha Ghosal (CITA & University of Toronto
+- Tanisha Ghosal (CITA & University of Toronto)
 - Michael Grehan (graduate student, CITA & University of Toronto)
-- Alicia Savelli (graduate student, CITA & University of Toronto Graduate Student)
-- Jonathan Zhang (graduate student, CITA & University of Toronto Graduate Student)
+- Alicia Savelli (graduate student, CITA & University of Toronto)
+- Jonathan Zhang (graduate student, CITA & University of Toronto)
 - Shashvat Varma (undergraduate, University of Toronto)
-</span>
 
 
 
