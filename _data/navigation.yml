@@ -1,11 +1,13 @@
 # main links
 main:
-  - title: "Hi Bart!"
-    url:  https://www.mso.anu.edu.au/~beattijr/turbulence_datasets/hi_bart.html
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Meeting Schedule"
+    url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Publications"
+    url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Our Team"
+    url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Contact"
+    url: /contact/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
