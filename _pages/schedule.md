@@ -1,7 +1,7 @@
 ---
 title:  "CITA Plasma Meeting Schedule"
 layout: archive
-permalink: /team/
+permalink: /schedule/
 author_profile: true
 comments: true
 ---
