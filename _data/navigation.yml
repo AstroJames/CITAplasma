@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "Meeting Schedule"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: https://docs.google.com/spreadsheets/d/1qWztMU9QQXNWUD6vDALt_N1q7Qd0aHKT6ysudJKZkOQ/edit#gid=0
   - title: "Publications"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: /publications/
   - title: "Our Team"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: /about/
   - title: "Contact"
     url: /contact/
   # - title: "Sample Collections"
