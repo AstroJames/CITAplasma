@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "CITA Theoretical Plasma Group"
 title_separator          : "-"
-subtitle                 : Theortical plasma across all scales in the Universe # site tagline that appears below site title in masthead
+subtitle                 : Theoretical plasma across all scales in the Universe # site tagline that appears below site title in masthead
 name                     : #"
 description              : "The CITA Plasma Group."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
