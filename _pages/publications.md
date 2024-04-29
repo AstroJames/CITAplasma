@@ -26,4 +26,4 @@ var ads_query_omit_link_to_ads = false;
 var ads_query_link_on_field = 'title';
 var ads_query_print_order = 'title|authors|journal|date|bibcode';
 </script>
-<script type="text/javascript" src="ads_query_importer_widget.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/assets/widgets/ads_query_importer_widget.js"></script>
